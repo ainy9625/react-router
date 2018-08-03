@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { BrowserRouter as Router, Route, Link ,Switch ,Redirect} from "react-router-dom";
+import { HashRouter as Router, Route, Link ,Switch ,Redirect} from "react-router-dom";
 import './App.css';
 import Logo from './logo.svg'
 import Day from './components/day';
