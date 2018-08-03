@@ -1,0 +1,31 @@
+.list{
+    list-style: none;
+    font-size: 12px;
+    width: 20%;
+    border-right: 2px solid #ccc;
+    float: left;
+
+}
+.list li{
+    padding: 10px;
+    font-size: 12px;
+}
+.list p{
+    margin-bottom: 10px;
+}
+.text{
+    width: 70%;
+    float: right;
+    font-size: 20px;
+    font-weight: 500;
+}
+.clickThis{
+    color: #5CC2F2;
+}
+.title{
+    float: left;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
